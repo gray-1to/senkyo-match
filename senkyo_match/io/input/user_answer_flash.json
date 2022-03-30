@@ -1,0 +1,58 @@
+[
+	{
+		"question_id": 1,
+		"category": "税金・財政",
+		"question": "もしあなたが政治家だったら、企業に対する税金はどうしますか？\nA:国が使えるお金を増やすために増税する\nB:経済成長を優先するため増税しない",
+		"party_answer": "どちらかというとB",
+		"party_answer_value": 4
+	},
+	{
+		"question_id": 2,
+		"category": "税金・財政",
+		"question": "もしあなたが政治家だったら、消費税についてどう判断しますか？",
+		"party_answer": "どちらかというとA",
+		"party_answer_value": 2
+	},
+	{
+		"question_id": 3,
+		"category": "税金・財政",
+		"question": "もしあなたが政治家だったら、より国のお金を使うべきなのはどちらだと判断しますか？\nA:日本の経済成長\nB:困っている人への支援",
+		"party_answer": "どちらとも言えない",
+		"party_answer_value": 3
+	},
+	{
+		"question_id": 4,
+		"category": "税金・財政",
+		"question": "もしあなたが政治家だったら、企業に対する税金はどうしますか？\nA:国が使えるお金を増やすために増税する\nB:経済成長を優先するため増税しない",
+		"party_answer": "どちらかというとB",
+		"party_answer_value": 4
+	},
+	{
+		"question_id": 5,
+		"category": "税金・財政",
+		"question": "もしあなたが政治家だったら、企業に対する税金はどうしますか？\nA:国が使えるお金を増やすために増税する\nB:経済成長を優先するため増税しない",
+		"party_answer": "どちらかというとB",
+		"party_answer_value": 4
+	},
+	{
+		"question_id": 6,
+		"category": "税金・財政",
+		"question": "もしあなたが政治家だったら、企業に対する税金はどうしますか？\nA:国が使えるお金を増やすために増税する\nB:経済成長を優先するため増税しない",
+		"party_answer": "どちらかというとB",
+		"party_answer_value": 4
+	},
+	{
+		"question_id": 7,
+		"category": "税金・財政",
+		"question": "もしあなたが政治家だったら、企業に対する税金はどうしますか？\nA:国が使えるお金を増やすために増税する\nB:経済成長を優先するため増税しない",
+		"party_answer": "どちらかというとB",
+		"party_answer_value": 4
+	},
+	{
+		"question_id": 8,
+		"category": "税金・財政",
+		"question": "もしあなたが政治家だったら、企業に対する税金はどうしますか？\nA:国が使えるお金を増やすために増税する\nB:経済成長を優先するため増税しない",
+		"party_answer": "どちらかというとB",
+		"party_answer_value": 4
+	}
+]
